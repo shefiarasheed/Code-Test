@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Covid-15R30",
+    "slug": "Covid-15R30",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Covid-15R30"
+}
